@@ -18,8 +18,8 @@ A modern Android news application built with Jetpack Compose following Clean Arc
 
 ### Main Features
 <div align="center">
-  <img src="screenshots/home_screent.jpg" width="250" alt="Home Screen Dark" />
-  <img src="screenshots/search_screen.jpg" width="250" alt="Search Screen" />
+  <img src="screenshots/home_screen.jpg" width="250" alt="Home Screen Dark" />
+  <img src="screenshots/search_bar.jpg" width="250" alt="Search Screen" />
 </div>
 
 *Home screen with news feed and Search functionality*
