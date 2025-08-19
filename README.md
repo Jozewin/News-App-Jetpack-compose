@@ -9,24 +9,24 @@ A modern Android news application built with Jetpack Compose following Clean Arc
 
 ### Onboarding Flow
 <div align="center">
-  <img src="screenshots/onboarding_1.png" width="250" alt="Onboarding Page 1" />
-  <img src="screenshots/onboarding_2.png" width="250" alt="Onboarding Page 2" />
-  <img src="screenshots/onboarding_3.png" width="250" alt="Onboarding Page 3" />
+  <img src="screenshots/onboarding_1.jpg" width="250" alt="Onboarding Page 1" />
+  <img src="screenshots/onboarding_2.jpg" width="250" alt="Onboarding Page 2" />
+  <img src="screenshots/onboarding_3.jpg" width="250" alt="Onboarding Page 3" />
 </div>
 
 *Three-step onboarding process introducing users to the app's key features*
 
 ### Main Features
 <div align="center">
-  <img src="screenshots/home_screent.png" width="250" alt="Home Screen Dark" />
-  <img src="screenshots/search_screen.png" width="250" alt="Search Screen" />
+  <img src="screenshots/home_screent.jpg" width="250" alt="Home Screen Dark" />
+  <img src="screenshots/search_screen.jpg" width="250" alt="Search Screen" />
 </div>
 
 *Home screen with news feed and Search functionality*
 
 <div align="center">
-  <img src="screenshots/article_detail.png" width="250" alt="Article Detail" />
-  <img src="screenshots/bookmark_screen.png" width="250" alt="Bookmarks" />
+  <img src="screenshots/article_detail.jpg" width="250" alt="Article Detail" />
+  <img src="screenshots/bookmark_screen.jpg" width="250" alt="Bookmarks" />
 </div>
 
 *Article detail view, Bookmarks screen, and Empty state*
